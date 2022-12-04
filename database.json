@@ -66,8 +66,8 @@
   "employees": [
     {
       "id": 1,
-      "specialty": "PC Repair",
-      "rate": 72.47,
+      "specialty": "PC Repairs and Mac repairs",
+      "rate": 80,
       "userId": 4
     },
     {
@@ -83,7 +83,7 @@
       "userId": 6
     },
     {
-      "id": 4, 
+      "id": 4,
       "specialty": "Being Awesome",
       "rate": 100.45,
       "userId": 7
