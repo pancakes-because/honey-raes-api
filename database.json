@@ -46,7 +46,7 @@
   "customers": [
     {
       "id": 1,
-      "address": "2802 Zula Locks",
+      "address": "2802 Zula Unlocks",
       "phoneNumber": "852-837-9713",
       "userId": 2
     },
@@ -67,7 +67,7 @@
     {
       "id": 1,
       "specialty": "PC Repairs and Mac repairs",
-      "rate": 80,
+      "rate": 81,
       "userId": 4
     },
     {
